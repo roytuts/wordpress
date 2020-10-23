@@ -52,7 +52,7 @@ function roytuts_email_subscription_callback() {
 	
 	if(isset($_POST) && !empty($_POST['email'])) {
 		$email = $_POST['email'];
-		$table_name = $wpdb->prefix . 'roytuts_subscribers';
+		$table_name = $wpdb->prefix . 'roytuts_email_subscribers';
 		$fetch_sql_query = "select * from " . $table_name . " where email_id='$email'";
 		$result = $wpdb->get_results($fetch_sql_query);
 		if(count($result) == 0) {
