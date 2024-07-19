@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/create-popular-posts-widget-in-wordpress-without-plugin/
+Please follow the tutorial https://roytuts.com/create-popular-posts-widget-in-wordpress-without-plugin/
