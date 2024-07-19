@@ -1,1 +1,1 @@
-You can read tutorial at https://www.roytuts.com/how-to-use-ajax-jquery-in-wordpress-plugin/
+Please follow the tutorial https://roytuts.com/how-to-use-ajax-jquery-in-wordpress-plugin/
