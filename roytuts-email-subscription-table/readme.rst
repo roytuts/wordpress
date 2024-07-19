@@ -1,1 +1,1 @@
-You can read tutorial at https://www.roytuts.com/how-to-create-table-with-wordpress-plugin/
+Please follow the tutorial https://roytuts.com/how-to-create-table-with-wordpress-plugin/
